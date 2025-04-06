@@ -1,4 +1,4 @@
-# LINK PARA VISUALIZAÇÃO DO SITE CRIADO: https://klausdev-oak.vercel.app/
+# LINK PARA VISUALIZAÇÃO DO PROJETO OAK: https://klausdev-oak.vercel.app/
 
 # React + TypeScript + Vite
 
